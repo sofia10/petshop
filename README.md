@@ -24,13 +24,14 @@ query getSubCategories {
         name
         id
         image {
-        url
+            url
         }
         category {
-        name
+            name
         }
     }
 }
+```
 
 ## Screenshots
 
