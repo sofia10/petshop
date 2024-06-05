@@ -1,0 +1,20 @@
+export default{
+    BLACK: '#000',
+    PEACH: '#ff7425',
+    WHITE: '#FFF',
+    BLUEFB: '#4285F4',
+    LIGHT_GRAY: '#e0e0e0',
+    GRAY: '#858585',
+    PEACH_LIGHT: '#ffe4d3',
+    LIGHT_YELLOW: '#fff9e6',
+    LIGHT_GREEN: '#eef7f2',
+    LIGHT_BLUE: '#eef7fe',
+    LIGHT_PURPLE: '#f5eaf8',
+    LIGHT_PINK: '#fce8e5',
+    YELLOW: '#feebb6',
+    GREEN: '#a7d8ba',
+    BLUE: '#dbeffa',
+    PURPLE: '#e9d8f0',
+    PINK: '#f9beb2',
+    BORDER_GRAY: "#e6e6e6"
+}

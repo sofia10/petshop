@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "zooshop",
+    "displayName": "ZooShop",
     "slug": "zooshop",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,6 +23,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-font",
+      "expo-secure-store"
+    ]
   }
 }
